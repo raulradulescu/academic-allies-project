@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Computer Architecture",
+        "leader": "Zane Lewis"
+    },
+    {
+        "id": 2,
+        "name": "Programming in Python",
+        "leader": "Bob Moore"
+    },
+    {
+        "id": 3,
+        "name": "Programming in C/C++",
+        "leader": "Ivy Martinez"
+    },
+    {
+        "id": 4,
+        "name": "Programming in Java",
+        "leader": "Charlie Martinez"
+    },
+    {
+        "id": 5,
+        "name": "Algorithms",
+        "leader": "Oscar Garcia"
+    },
+    {
+        "id": 6,
+        "name": "Data Structures",
+        "leader": "Frank Hernandez"
+    },
+    {
+        "id": 7,
+        "name": "Logic for Computer Science",
+        "leader": "Jack Miller"
+    },
+    {
+        "id": 8,
+        "name": "Web Design",
+        "leader": "Yara Davis"
+    },
+    {
+        "id": 9,
+        "name": "Mathematics",
+        "leader": "David Bogdan"
+    },
+    {
+        "id": 10,
+        "name": "Flashlight Application Development",
+        "leader": "Ramirez"
+    }
+]

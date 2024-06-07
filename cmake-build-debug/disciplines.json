@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "leader": "Zane Lewis",
+        "name": "Computer Architecture"
+    },
+    {
+        "id": 2,
+        "leader": "Bob Moore",
+        "name": "Programming in Python"
+    },
+    {
+        "id": 3,
+        "leader": "Ivy Martinez",
+        "name": "Programming in C/C++"
+    },
+    {
+        "id": 4,
+        "leader": "Charlie Martinez",
+        "name": "Programming in Java"
+    },
+    {
+        "id": 5,
+        "leader": "Oscar Garcia",
+        "name": "Algorithms"
+    },
+    {
+        "id": 6,
+        "leader": "Frank Hernandez",
+        "name": "Data Structures"
+    },
+    {
+        "id": 7,
+        "leader": "Jack Miller",
+        "name": "Logic for Computer Science"
+    },
+    {
+        "id": 8,
+        "leader": "Yara Davis",
+        "name": "Web Design"
+    },
+    {
+        "id": 9,
+        "leader": "David Bogdan",
+        "name": "Mathematics"
+    },
+    {
+        "id": 10,
+        "leader": "3",
+        "name": "2"
+    },
+    {
+        "id": 45,
+        "leader": "Cira",
+        "name": "cryptography"
+    },
+    {
+        "id": 420,
+        "leader": "Snoop Dogg",
+        "name": "Mahoarca"
+    }
+]

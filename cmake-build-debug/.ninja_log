@@ -1,0 +1,10 @@
+# ninja log v5
+11	13213	7395002016121323	CMakeFiles/MyExecutable.dir/main.cpp.obj	263c98bd75895326
+119	10482	7394999739406908	CMakeFiles/MyExecutable.dir/JSONHandler.cpp.obj	b9ced3b3045cfc25
+13630	18140	7394988849778406	MyExecutable.exe	3f441153cc9a5c36
+43	1550	7394999649970234	CMakeFiles/MyExecutable.dir/User.cpp.obj	c2ff349253aa2586
+148	9127	7394999725875728	CMakeFiles/MyExecutable.dir/Professor.cpp.obj	19b0a2719d04e7fa
+66	8762	7394999722055481	CMakeFiles/MyExecutable.dir/Student.cpp.obj	bc61d7e748e3624a
+4	1057	7395007118223903	build.ninja	b117d657cfecbffe
+14	12391	7395007244975795	CMakeFiles/MyExecutable.dir/main.cpp.obj	263c98bd75895326
+12396	15633	7395007276348034	MyExecutable.exe	3f441153cc9a5c36
